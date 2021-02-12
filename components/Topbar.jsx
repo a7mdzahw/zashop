@@ -7,7 +7,7 @@ const Topbar = () => {
         <h1 className="navbar-brand mx-2">
           <Link href="/">
             <i className="bi bi-shop"></i>
-            <a className="nav-link">ZaShop</a>
+            <a className="nav-link"> ZaShop</a>
           </Link>
         </h1>
         <ul className="navbar-nav">
