@@ -10,7 +10,7 @@ export default function Home() {
       <main className="container">
         <div className="text-center home">
           <h1 className="display-2 text-dark">Welcome ZaShoppers</h1>
-          <img src="/vercel.svg" alt="logo" className="img-fluid m-5" />
+          <img src="/vercel.svg" alt="logo" className="img-fluid my-5" />
           <div className="d-flex gap-3 justify-content-center">
             <button className="btn btn-outline-primary">
               <i className="bi bi-person-plus"></i> Sign In
