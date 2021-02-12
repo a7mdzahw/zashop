@@ -34,3 +34,7 @@ a.nav-link {
   border: 1px dashed goldenrod;
   padding: 1rem;
 }
+
+.card-link {
+  cursor: pointer;
+}

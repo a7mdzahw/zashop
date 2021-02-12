@@ -16,7 +16,7 @@ export default function Home() {
               <i className="bi bi-person-plus"></i> Sign In
             </button>
             <button className="btn btn-outline-warning">
-              <i class="bi bi-person-circle"></i> Sign Up
+              <i className="bi bi-person-circle"></i> Sign Up
             </button>
           </div>
         </div>
