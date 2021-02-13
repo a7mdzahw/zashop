@@ -38,7 +38,7 @@ const products = () => {
         )}
         <div className="row">
           {products.map((product) => (
-            <div className="col-lg-4" key={product._id}>
+            <div className="col-lg-4 col-md-6" key={product._id}>
               <Product product={product} />
             </div>
           ))}
