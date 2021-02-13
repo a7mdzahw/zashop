@@ -4,9 +4,9 @@ const Topbar = () => {
   return (
     <nav className="navbar mb-2 navbar-dark navbar-expand bg-dark">
       <div className="container">
-        <h1 className="navbar-brand mx-2">
+        <h1 className="navbar-brand mx-2 my-0">
           <Link href="/">
-            <div className="d-flex gap-2 align-items-end card-link">
+            <div className="d-flex gap-2 card-link">
               <i className="bi bi-shop"></i>
               <a className="nav-link">ZaShop</a>
             </div>
