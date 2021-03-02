@@ -1,3 +1,4 @@
+import Progress from "nextjs-progressbar";
 import Topbar from "../components/Topbar";
 
 import "../styles/globals.css";
@@ -5,6 +6,7 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }) {
   return (
     <>
+      <Progress />
       <Topbar />
       <Component {...pageProps} />
     </>
